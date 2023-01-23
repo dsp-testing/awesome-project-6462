@@ -110,8 +110,8 @@ testing = ["flake8 (<5)", "func-timeout", "jaraco.functools", "jaraco.itertools"
 
 [metadata]
 lock-version = "1.1"
-python-versions = "3.9.15"
-content-hash = "fd6fc6f4059782a6eb9e54c3f01d79433176e9ec18b525e6578641cc3369e98d"
+python-versions = "3.9.16"
+content-hash = "4ffae8120491662d5851ad0882168c5daa4c6b51e4d0f36dd7fbb7d4a0321de7"
 
 [metadata.files]
 click = [
