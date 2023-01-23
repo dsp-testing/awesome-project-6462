@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "awesome-project-6462"
+version = "0.1.0"
+description = ""
+authors = ["Mike <mike@zivix.com>"]
+readme = "README.md"
+packages = [{include = "awesome_project_6462"}]
+
+[tool.poetry.dependencies]
+python = "3.9.15"
+Flask = "2.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
