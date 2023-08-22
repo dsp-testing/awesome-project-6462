@@ -8,7 +8,7 @@ packages = [{include = "awesome_project_6462"}]
 
 [tool.poetry.dependencies]
 python = "3.9.16"
-Flask = "2.1.0"
+Flask = "2.3.3"
 
 
 [build-system]
